@@ -1,0 +1,40 @@
+E:\Desktop\lr4\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Desktop\lr4\obj\Debug\net6.0-windows\App.g.cs
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4_MarkupCompile.cache
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4_MarkupCompile.lref
+E:\Desktop\lr4\bin\Debug\net6.0-windows\lr4.exe
+E:\Desktop\lr4\bin\Debug\net6.0-windows\lr4.deps.json
+E:\Desktop\lr4\bin\Debug\net6.0-windows\lr4.runtimeconfig.json
+E:\Desktop\lr4\bin\Debug\net6.0-windows\lr4.dll
+E:\Desktop\lr4\bin\Debug\net6.0-windows\lr4.pdb
+E:\Desktop\lr4\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.g.resources
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.AssemblyInfoInputs.cache
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.AssemblyInfo.cs
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.csproj.CoreCompileInputs.cache
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.dll
+E:\Desktop\lr4\obj\Debug\net6.0-windows\refint\lr4.dll
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.pdb
+E:\Desktop\lr4\obj\Debug\net6.0-windows\lr4.genruntimeconfig.cache
+E:\Desktop\lr4\obj\Debug\net6.0-windows\ref\lr4.dll
+E:\Desktop\ЛАбы приклад\лр4\lr4\bin\Debug\net6.0-windows\lr4.exe
+E:\Desktop\ЛАбы приклад\лр4\lr4\bin\Debug\net6.0-windows\lr4.deps.json
+E:\Desktop\ЛАбы приклад\лр4\lr4\bin\Debug\net6.0-windows\lr4.runtimeconfig.json
+E:\Desktop\ЛАбы приклад\лр4\lr4\bin\Debug\net6.0-windows\lr4.dll
+E:\Desktop\ЛАбы приклад\лр4\lr4\bin\Debug\net6.0-windows\lr4.pdb
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\App.g.cs
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4_MarkupCompile.cache
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4_MarkupCompile.lref
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.g.resources
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.AssemblyInfoInputs.cache
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.AssemblyInfo.cs
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.csproj.CoreCompileInputs.cache
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.dll
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\refint\lr4.dll
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.pdb
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\lr4.genruntimeconfig.cache
+E:\Desktop\ЛАбы приклад\лр4\lr4\obj\Debug\net6.0-windows\ref\lr4.dll

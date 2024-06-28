@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book title="Как стать неуспешным">
+    <author>Я</author>
+    <release_date>2024</release_date>
+    <price>0</price>
+    <genre>Научная фантастика</genre>
+    <rating>0</rating>
+  </book>
+  <book title="Систематика и что-то там">
+    <author>Кто-то Там</author>
+    <release_date>1999</release_date>
+    <price>555</price>
+    <genre>Небылицы</genre>
+    <rating>10</rating>
+  </book>
+</books>
